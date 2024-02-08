@@ -15,7 +15,6 @@ This SnakeGame is a classic arcade game implemented using HTML, CSS, and JavaScr
 2. Guide the snake to eat the food displayed on the grid.
 3. Each time the snake eats food, it grows longer.
 4. Avoid collisions with walls and the snake's own body, as it will result in game over.
-5. Try to achieve the highest score possible by eating as much food as you can without colliding.
 
 ## Technologies Used
 
@@ -23,10 +22,11 @@ This SnakeGame is a classic arcade game implemented using HTML, CSS, and JavaScr
 - CSS
 - JavaScript
 
-
-This game was created by [Your Name].
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Code Structure
+- `snake.html`: Main HTML file containing the game layout and styling of the game.
+- `game.js`: JavaScript file containing the Main game logic.
+- `food.js`: JavaScript file containing the food logic.
+- `grid.js`: JavaScript file containing the grid logic.
+- `input.js`: JavaScript file containing the input logic.
+- `snake.js`: JavaScript file containing the game related logic.
 
