@@ -22,11 +22,3 @@ This SnakeGame is a classic arcade game implemented using HTML, CSS, and JavaScr
 - CSS
 - JavaScript
 
-## Code Structure
-- `snake.html`: Main HTML file containing the game layout and styling of the game.
-- `game.js`: JavaScript file containing the Main game logic.
-- `food.js`: JavaScript file containing the food logic.
-- `grid.js`: JavaScript file containing the grid logic.
-- `input.js`: JavaScript file containing the input logic.
-- `snake.js`: JavaScript file containing the game related logic.
-
